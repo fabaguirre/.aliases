@@ -1,0 +1,10 @@
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias l='ls -CF'
+alias la='ls -A'
+alias ll='ls -alF'
+alias lla='ls -la'
+alias mkdir='mkdir -pv'
+alias rmd='rm -rf'
+
