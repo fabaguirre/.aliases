@@ -16,6 +16,9 @@ alias gl='git log --oneline --graph --decorate'
 alias gb='git branch'
 alias gsw='git switch'
 alias gm='git merge'
+alias guh='git update-index --assume-unchanged'
+alias guhn='git update-index --no-assume-unchanged'
+alias gex='vim .git/info/exclude'
 
 # Alias para limpiar y resetear
 alias gclean='git clean -fd'
