@@ -52,3 +52,14 @@ Feel free to edit the scripts to suit your needs. You can add, modify, or remove
 ### Usage
 
 Once installed, you can use the provided aliases and functions directly from your terminal. Check each `.sh` file for specific commands and aliases included.
+
+## Optional: Enhance Navigation with Eza
+
+If you prefer a more visually appealing and feature-rich alternative to `ls`, you can use **Eza**. Script automatically detects if Eza is installed and applies enhanced aliases for file navigation. 
+
+Eza offers:
+- Icons for better file recognition
+- Color gradients to visualize file sizes and dates
+- Integration with Git status for tracked files
+
+To learn more about Eza and how to install it, check out the [official documentation](https://eza.rocks/)
