@@ -1,7 +1,9 @@
 alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../..'
-alias -='cd -'
+--() {
+  cd -
+}
 alias mkdir='mkdir -pv'
 alias rmd='rm -rf'
 
